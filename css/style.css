@@ -16,3 +16,9 @@
   border-color: teal;
   color: teal;
 }
+
+#banner {
+  background-image: url('../images/bg_home.jpg');
+  min-height: 50px;
+  background-size: cover;
+}
